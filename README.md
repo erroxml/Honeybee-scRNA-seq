@@ -1,1 +1,1 @@
-# Honeybee-single-RNA-seq
+This is the original code for honeybee single-cell transcriptome sequencing
